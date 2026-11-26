@@ -1,15 +1,20 @@
-<h1 align="center">Hey, I'm Ang 👋</h1>
+<h1 align="center">Hey, I'm Ang Mason 👋</h1>
 <h3 align="center">Property manager by day. App builder by night. The MF Boss, always. 🔑</h3>
 
 <p align="center">
   <a href="https://tenant-rental-matchmaker.overskill.app"><img src="https://img.shields.io/badge/Now_building-Matchwell-0f3e2e?style=for-the-badge" alt="Now building Matchwell"></a>
   <img src="https://img.shields.io/badge/Built_with-AI-c8643b?style=for-the-badge" alt="Built with AI">
   <img src="https://img.shields.io/badge/Made_in-Canada_🇨🇦-f4ead8?style=for-the-badge&labelColor=0f3e2e" alt="Made in Canada">
+  <img src="https://img.shields.io/badge/Based_in-Victoria,_BC-0f3e2e?style=for-the-badge" alt="Based in Victoria, BC">
 </p>
 
 ---
 
-I run rental properties, and I build the software I wish existed. No computer science degree, no waiting for permission: just real problems from the front lines of property management, and AI as my co-pilot.
+> ### 🌿 My mission: make the world happy and content through the homes they keep.
+
+I'm a property manager in **Victoria, BC**, and I build the software I wish existed. No computer science degree, no waiting for permission: just real problems from the front lines of property management, and AI as my co-pilot.
+
+I love **curating spaces** and **investing in people**: the renters who make a house a home, the owners who trust me with their properties, and the team building alongside me.
 
 ## 🏡 Now building: Matchwell
 
@@ -35,6 +40,7 @@ Bedrooms and bathrooms are the starting point. Matchwell looks at the rest of th
 
 ## 🔑 What drives me
 
+- A home that fits is the foundation of a happy, content life
 - Renters deserve homes that fit their lives, not just their budgets
 - Landlords deserve less paperwork and better tenants
 - You don't need to be a "tech person" to ship real software anymore
