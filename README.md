@@ -45,6 +45,10 @@ Bedrooms and bathrooms are the starting point. Matchwell looks at the rest of th
 | **[DataPalace](https://datapalace.ai)** | Shared AI memory for my whole business, so every AI tool already knows how we work |
 | **[Fixr](https://myfixr.ai)** | Permanent building memory: repairs, warranties, manuals, invoices and service calls in one place, not scattered across inboxes |
 
+## 🎓 Where I learned to build
+
+Everything I know about building with AI, I learned from **[Funnel + Ladder](https://funnelandladder.com)**. They took me from property manager to app builder. 🙌
+
 ## 🔑 What drives me
 
 - A home that fits is the foundation of a happy, content life
