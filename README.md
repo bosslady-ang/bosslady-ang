@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Ang Mason 👋</h1>
-<h3 align="center">Property manager by day. App builder by night. The MF Boss, always. 🔑</h3>
+<h3 align="center">Property matchmaker by day. App builder by night. The MF Boss, always. 🔑</h3>
 
 <p align="center">
   <a href="https://tenant-rental-matchmaker.overskill.app"><img src="https://img.shields.io/badge/Now_building-Matchwell-0f3e2e?style=for-the-badge" alt="Now building Matchwell"></a>
@@ -12,7 +12,7 @@
 
 > ### 🌿 My mission: make the world happy and content through the homes they keep.
 
-I'm a property manager in **Victoria, BC**, and I build the software I wish existed. No computer science degree, no waiting for permission: just real problems from the front lines of property management, and AI as my co-pilot.
+I'm a property matchmaker in **Victoria, BC**: I match people with homes that fit, and I build the software I wish existed. No computer science degree, no waiting for permission: just real problems from the front lines of rentals, and AI as my co-pilot.
 
 I love **curating spaces** and **investing in people**: the renters who make a house a home, the owners who trust me with their properties, and the team building alongside me.
 
@@ -47,7 +47,7 @@ Bedrooms and bathrooms are the starting point. Matchwell looks at the rest of th
 
 ## 🎓 Where I learned to build
 
-Everything I know about building with AI, I learned from **[Funnel + Ladder](https://funnelandladder.com)**. They took me from property manager to app builder. 🙌
+Everything I know about building with AI, I learned from **[Funnel + Ladder](https://funnelandladder.com)**. They took me from property matchmaker to app builder. 🙌
 
 ## ✨ People and inspiration along the way
 
