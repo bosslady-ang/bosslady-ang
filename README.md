@@ -49,6 +49,14 @@ Bedrooms and bathrooms are the starting point. Matchwell looks at the rest of th
 
 Everything I know about building with AI, I learned from **[Funnel + Ladder](https://funnelandladder.com)**. They took me from property manager to app builder. 🙌
 
+## ✨ People and inspiration along the way
+
+- **[Tony Robbins](https://www.tonyrobbins.com)**, for showing me what's possible when you decide
+- **Russell Brunson** at **[ClickFunnels](https://www.clickfunnels.com)**, for teaching me to build, sell and ship
+- **Sara Blakely**, founder of Spanx, for proof that a big idea and grit beat a fancy résumé
+- **Emma Grede**, for building brands with heart and serious business sense
+- **My Aligned Purpose crew**, my real-time, real-world, IRL cheerleader squad 📣
+
 ## 🔑 What drives me
 
 - A home that fits is the foundation of a happy, content life
