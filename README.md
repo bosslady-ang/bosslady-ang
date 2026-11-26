@@ -64,9 +64,10 @@ Everything I know about building with AI, I learned from **[Funnel + Ladder](htt
 - Landlords deserve less paperwork and better tenants
 - You don't need to be a "tech person" to ship real software anymore
 
-## 🤝 Building with
+## 🤝 Building the future with
 
-[Ryan (Vibe-and-Grind)](https://github.com/vibe-and-grind): code-axe in hand, coffee brewed.
+- **[Ryan (Vibe-and-Grind)](https://github.com/vibe-and-grind)**: code-axe in hand, coffee brewed.
+- **[Dave Koo](https://github.com/dkoo761)**: I take care of the meals 🍲, Dave does enterprise security 🔐.
 
 ---
 
