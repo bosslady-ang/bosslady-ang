@@ -38,6 +38,13 @@ Bedrooms and bathrooms are the starting point. Matchwell looks at the rest of th
 | **ChatGPT** | Brainstorming, writing and design |
 | **GitHub** | Where my code lives, safely backed up and versioned |
 
+## 💚 Tools I love
+
+| | |
+|---|---|
+| **[DataPalace](https://datapalace.ai)** | Shared AI memory for my whole business, so every AI tool already knows how we work |
+| **[Fixr](https://myfixr.ai)** | Permanent building memory: repairs, warranties, manuals, invoices and service calls in one place, not scattered across inboxes |
+
 ## 🔑 What drives me
 
 - A home that fits is the foundation of a happy, content life
